@@ -16,7 +16,6 @@
 	$str .= "State: $state<br>";
 	
 	echo $str;
-	mail("lisa.diorio@gmail.com", "this is a test", $str);
 	?>
 </body>
 </html>
